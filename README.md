@@ -1,6 +1,7 @@
 # firework
 一个python3和pygame精灵类实现的烟花，
 有重力的因素，本来想火花减速上升至鼠标点击点后，烟花爆炸
-结果无法实现，希望有一天能做出来吧
+结果无法实现火花上升后再爆炸，只能一边上升一边爆炸，希望有一天能做出来吧
 2019新年快乐
-下载运行pygame_fireworks.py就行，只需要pygame包
+下载运行pygame_fireworks.py就行，只需要pygame包\n
+按f全屏，按q退出
